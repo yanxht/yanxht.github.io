@@ -4,7 +4,6 @@ email: xy257@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Data Scientist and Statistician working at Microsoft Azure. 
   Topics on my site include my research and professional development.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yanxht.github.io" # the base hostname & protocol for your site
 github_username:  yanxht
 google_scholar_id: M3uIYO4AAAAJ
@@ -17,7 +16,12 @@ permalink: blog/:year/:month/:title/
 jobtitle: "Data Scientist"
 excerpt_separator: "<!--more-->"
 
-# SEO stuff
-#google_author: "https://plus.google.com/u/0/110288225974212014913"
-#google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
-#bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+
+safe: true
+lsi: false
