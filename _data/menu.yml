@@ -1,9 +1,6 @@
 - title: "About"
   href: "/about/"
 
-- title: "CV"
-  href: "/cv/"
-
 - title: "Research"
   href: "/research/"
   subcategories:
@@ -11,6 +8,9 @@
       subhref: "/research/item-1/"
     - subtitle: "Item 2"
       subhref: "/research/item-2/"
+
+- title: "CV"
+href: "/cv/"
 
 - title: "Blog"
   href: "/blog/"
