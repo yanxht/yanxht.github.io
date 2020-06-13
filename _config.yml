@@ -18,6 +18,3 @@ excerpt_separator: "<!--more-->"
 
 exclude:
 - README.md
-
-safe: true
-lsi: false
