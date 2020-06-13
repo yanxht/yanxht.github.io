@@ -1,16 +1,16 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
-
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Research"
+  href: "/research/"
   subcategories:
     - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
+      subhref: "/research/item-1/"
     - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+      subhref: "/research/item-2/"
+
+- title: "Blog"
+  href: "/blog/"
