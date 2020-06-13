@@ -1,9 +1,11 @@
 # Site settings
 title: Xiaohan Yan
-description: > # this means to ignore newlines until "baseurl:"
-""
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+#email: xy257@cornell.edu
+#description: > # this means to ignore newlines until "baseurl:"
+#  Xiaohan Yan, Data Scientist & Statistician
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yanxht.github.io" # the base hostname & protocol for your site
+#github_username:  yanxht
 
 # Build settings
 markdown: kramdown
