@@ -16,10 +16,6 @@ permalink: blog/:year/:month/:title/
 jobtitle: "Data Scientist"
 excerpt_separator: "<!--more-->"
 
-sass:
-  sass_dir: css
-  style:    expanded
-
 exclude:
 - README.md
 
