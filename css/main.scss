@@ -16,11 +16,10 @@ $spacing-unit:     30px;
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #0077CC;
-// $gameday-sky: #109dc0;
-$clemson-purple:      #522d80;
-$clemson-orange:      #f66733;
-$yan-darkblue: #24292E;
-$yan-black: #211F1F;
+$clemson-purple:   #522d80;
+$clemson-orange:   #f66733;
+$yan-darkblue:     #24292E;
+$yan-black:        #211F1F;
 
 
 $grey-color:       #828282;
@@ -54,9 +53,9 @@ $on-laptop:        950px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "header",
-	"mobile-header",
+	    "mobile-header",
         "base",
         "layout",
         "syntax-highlighting",
-	"fancy-image"
+	    "fancy-image"
 ;
