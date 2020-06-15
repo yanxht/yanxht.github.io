@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 2
+title: Other Research
 permalink: /research/other/
 ---
 

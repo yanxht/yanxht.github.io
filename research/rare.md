@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 2
+title: Rare Feature Selection in High Dimensions
 permalink: /research/rare/
 ---
 

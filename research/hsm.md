@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 2
+title: Hierarchical Sparse Modeling
 permalink: /research/hsm/
 ---
 
