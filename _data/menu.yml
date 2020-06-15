@@ -7,10 +7,12 @@
 - title: "Research"
   href: "/research/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/research/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/research/item-2/"
+    - subtitle: "Bernoulli Auto Regressive"
+      subhref: "/research/bar/"
+    - subtitle: "Rare Feature Selection"
+      subhref: "/research/rare/"
+    - subtitle: "Hierarchical Sparse Model"
+      subhref: "/research/hsm/"
 
 - title: "Blog"
   href: "/blog/"
