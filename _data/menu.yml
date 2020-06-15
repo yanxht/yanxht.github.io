@@ -13,6 +13,8 @@
       subhref: "/research/rare/"
     - subtitle: "Hierarchical Sparse Model"
       subhref: "/research/hsm/"
+    - subtitle: "Other Research"
+      subhref: "/research/other/"
 
 - title: "Blog"
   href: "/blog/"
