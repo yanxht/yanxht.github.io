@@ -8,7 +8,7 @@ It is common in modern prediction problems for many predictor variables to be co
 
 We apply our method to data from TripAdvisor, in which we predict the numerical rating of a hotel based on the text of the associated review.  Our method achieves high accuracy by making effective use of rare words; by contrast, the lasso is unable to identify highly predictive words if they are too rare.  A companion R package, called *rare*, implements our new estimator, using the alternating direction method of multipliers.
 
-{% include image_partialwidth_nocaption.html url="/images/rare_tree.png" width_perc=80 align="center" %}
+{% include image_nocaption.html url="/images/rare_tree.png" width_perc=80 align="center" %}
 
 **Reference**<br/>
 - [**Yan, X.** and Bien, J. (2018). **Rare feature selection in high dimensions**. *Submitted*](https://arxiv.org/abs/1803.06675)
