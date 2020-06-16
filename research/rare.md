@@ -10,7 +10,6 @@ We apply our method to data from TripAdvisor, in which we predict the numerical 
 
 {% include image_partialwidth_nocaption.html url="/images/rare_tree.png" width_perc=80 align="center" %}
 
-Reference<br/>
-[**Yan, X.** and Bien, J. (2018). **Rare feature selection in high dimensions**. *Submitted*](https://arxiv.org/abs/1803.06675)
-
-Check out our accompanying R package [**rare** on CRAN](https://cran.r-project.org/web/packages/rare/index.html) and [its user guide](https://cran.r-project.org/web/packages/rare/vignettes/rare-vignette.html).
+**Reference**<br/>
+- [**Yan, X.** and Bien, J. (2018). **Rare feature selection in high dimensions**. *Submitted*](https://arxiv.org/abs/1803.06675)
+- Check out our accompanying R package [**rare**](https://cran.r-project.org/web/packages/rare/index.html) and [its user guide](https://cran.r-project.org/web/packages/rare/vignettes/rare-vignette.html).
