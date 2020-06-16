@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Misc
+permalink: /misc/
 ---
 
-Better make cool blogs!
+Miscellaneous: consisting of a mixture of various things that are not usually connected with each other.
 
 <ul class="listing">
 {% for post in site.posts %}
