@@ -4,7 +4,7 @@ title: Other Research
 permalink: /research/other/
 ---
 
-### Geographic Variation in Sudden Unexpected Infant Death (SUID)
+## Geographic Variation in Sudden Unexpected Infant Death (SUID)
 
 {% include image_partialwidth_nocaption.html url="/images/geo_sids_gam.png" width_perc=30 align="right" %}
 
