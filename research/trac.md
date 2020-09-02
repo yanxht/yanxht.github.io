@@ -9,4 +9,4 @@ Modern high-throughput sequencing technologies provide low-cost microbiome surve
 {% include image_nocaption.html url="/images/taxa.png" width_perc=60 align="center" %}
 
 **Reference**<br/>
-- [Bien, J., **Yan, X.**, Simpson, L. and Muller, C. (2020). **Tree-Aggregated Predictive Modeling of Microbiome Data**. *bioRxiv 2020.09.01.277632; doi:10.1101/2020.09.01.277632*](https://www.biorxiv.org/content/10.1101/2020.09.01.277632v1)
+- [Bien, J., **Yan, X.**, Simpson, L. and M&uuml;ller, C. (2020). **Tree-Aggregated Predictive Modeling of Microbiome Data**. *bioRxiv 2020.09.01.277632; doi:10.1101/2020.09.01.277632*](https://www.biorxiv.org/content/10.1101/2020.09.01.277632v1)
