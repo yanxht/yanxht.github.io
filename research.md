@@ -10,6 +10,6 @@ My research interests primarily lie in two areas: *high dimensional statistics* 
 
 ## Featured Research
 - [Rare Feature Selection in High Dimensions](https://yanxht.github.io/research/rare/)
-- [Tree-Aggregation of Compositional Data](https://www.biorxiv.org/content/10.1101/2020.09.01.277632v1)
+- [Tree-Aggregation of Compositional Data](https://yanxht.github.io/research/trac/)
 - [Hierarchical Sparse Modeling](https://yanxht.github.io/research/hsm/)
 - [Bernoulli Auto Regressive Framework for Link Prediction](https://yanxht.github.io/research/bar/)

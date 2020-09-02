@@ -7,12 +7,14 @@
 - title: "Research"
   href: "/research/"
   subcategories:
-    - subtitle: "Bernoulli Auto Regressive"
-      subhref: "/research/bar/"
-    - subtitle: "Rare Feature Selection"
+    - subtitle: "Rare Feature Selection in High Dimensions"
       subhref: "/research/rare/"
+    - subtitle: "Tree-Aggregation of Compositional Data"
+      subhref: "/research/trac/"
     - subtitle: "Hierarchical Sparse Model"
       subhref: "/research/hsm/"
+    - subtitle: "Bernoulli Auto Regressive"
+      subhref: "/research/bar/"
     - subtitle: "Other Research"
       subhref: "/research/other/"
 
