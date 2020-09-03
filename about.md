@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image_caption.html url="/images/yan_portrait.jpeg" caption="Me starting PhD at Cornell in 2013" width_perc=10 align="right" %}
+{% include image_caption.html url="/images/yan_portrait.jpeg" caption="Me starting PhD at Cornell in 2013" width_perc=20 align="right" %}
 
 My name is Xiaohan Yan or 颜啸晗 in Chinese. I was born and raised in [Tai'an, Shandong](https://en.wikipedia.org/wiki/Tai%27an) until I was eighteen. My father was a first-generation college graduate coming from rural China. Very much knowing the value of higher education, he encouraged and supported me to pursue my studies in the US. But neither of us forecast my following decade would be spent on the other side of the globe.
 
