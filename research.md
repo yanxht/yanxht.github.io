@@ -12,4 +12,5 @@ My research interests primarily lie in two areas: *high dimensional statistics* 
 - [Rare Feature Selection in High Dimensions](https://yanxht.github.io/research/rare/)
 - [Tree-Aggregation of Compositional Data](https://yanxht.github.io/research/trac/)
 - [Hierarchical Sparse Modeling](https://yanxht.github.io/research/hsm/)
+- [Online Updating Lasso AR-X](https://yanxht.github.io/research/lassoarx/)
 - [Bernoulli Auto Regressive Framework for Link Prediction](https://yanxht.github.io/research/bar/)

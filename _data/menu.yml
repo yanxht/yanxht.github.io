@@ -13,6 +13,8 @@
       subhref: "/research/trac/"
     - subtitle: "Hierarchical Sparse Model"
       subhref: "/research/hsm/"
+    - subtitle: "Online Updating Lasso AR-X"
+      subhref: "/research/lassoarx/"
     - subtitle: "Bernoulli Auto Regressive"
       subhref: "/research/bar/"
     - subtitle: "Other Research"
