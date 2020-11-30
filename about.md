@@ -6,7 +6,7 @@ permalink: /about/
 
 <!---{% include image_caption.html url="/images/portrait_2013.jpeg" caption="Me starting PhD in 2013" width_perc=20 align="right" %}--->
 <!---{% include image_caption.html url="/images/portrait_2010.jpg" caption="Celebrate my 30th birthday from 10 years ago" width_perc=20 align="right" %}--->
-{% include image_caption.html url="/images/portrait_2015.jpg" caption="Me in 2015" width_perc=20 align="right" %}
+{% include image_caption.html url="/images/portrait_2015.jpg" caption="Me in 2015" width_perc=30 align="right" %}
 
 My name is Xiaohan Yan or 颜啸晗 in Chinese. I was born and raised in [Tai'an, Shandong](https://en.wikipedia.org/wiki/Tai%27an) until I was eighteen. My father was a first-generation college graduate coming from rural China. Very much knowing the value of higher education, he encouraged and supported me to pursue my studies in the US. But neither of us forecast my following decade would be spent on the other side of the globe.
 
