@@ -4,7 +4,7 @@ title: Other Research
 permalink: /research/other/
 ---
 
-## Geographic Variation in Sudden Unexpected Infant Death
+## Geographic Variation in Sudden Unexpected Infant Death in the United States
 
 {% include image_nocaption.html url="/images/geo_sids_gam.png" width_perc=30 align="right" %}
 
