@@ -4,7 +4,7 @@ title: Other Research
 permalink: /research/other/
 ---
 
-## Geographic Variation in Sudden Unexpected Infant Death (SUID)
+## Geographic Variation in Sudden Unexpected Infant Death
 
 {% include image_nocaption.html url="/images/geo_sids_gam.png" width_perc=30 align="right" %}
 
@@ -13,7 +13,9 @@ The goal of the study is to assess the geographic variation of sudden unexpected
 **Reference**<br/>
 [Mitchell, E., **Yan, X.**, Ren, S., Anderson, T., Ramirez, J., Lavista Ferres, J. and Johnston, R. (2020). **Geographic Variation in Sudden Unexpected Infant Death in the United States**. *The Journal of Pediatrics. 220. 10.1016/j.jpeds.2020.01.006.*](https://www.sciencedirect.com/science/article/abs/pii/S002234762030010X) 
 
-## Altitude and Risk of Sudden Unexpected Infant Death in the United States)
+
+
+## Altitude and Risk of Sudden Unexpected Infant Death in the United States
 
 {% include image_nocaption.html url="/images/suid_altitude.png" width_perc=30 align="right" %}
 
