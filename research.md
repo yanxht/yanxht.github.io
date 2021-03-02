@@ -6,7 +6,7 @@ permalink: /research/
 
 <!--- {% include image_caption.html url="/images/comic_causal.png" caption="Comic from xkcd.com" width_perc=35 align="right" %} --->
 
-> I have learned a lot in my life. Unfortunately, most of it about technicalities.
+> I have learned a lot in my life. Unfortunately, most of it is about technicalities.
 >
 > -- <cite>Y.R.</cite>
 
