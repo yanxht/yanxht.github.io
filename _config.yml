@@ -1,9 +1,9 @@
 # Site settings
-title: Xiaohan Yan
+title: Xiaohan Yann
 email: xy257@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Data Scientist and Statistician working at Microsoft Azure. 
-  Topics on my site include my research and professional development.
+  Topics on my site include my professional and research development.
 url: "https://yanxht.github.io" # the base hostname & protocol for your site
 github_username:  yanxht
 google_scholar_id: M3uIYO4AAAAJ
