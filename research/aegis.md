@@ -15,3 +15,5 @@ Since Aegis’ inception in Azure Control Plane 12 months ago, it has caught sev
 **Reference**<br/>
 - [**Yan, X.** et al. (2023). **Aegis: Attribution of Control Plane Change Impact across Layers and Components for Cloud Systems**. *Proceedings of the 45th International Conference on Software Engineering*](https://www.microsoft.com/en-us/research/publication/aegis-attribution-of-control-plane-change-impact-across-layers-and-components-for-cloud-systems/)
 - Check out a [media coverage](https://www.msra.cn/zh-cn/news/features/icse-2023) of Aegis in Chinese.
+
+{% include image_nocaption.html url="/images/aegis_msra_blog.png" width_perc=40 align="left" %}
