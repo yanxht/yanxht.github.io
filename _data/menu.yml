@@ -7,6 +7,8 @@
 - title: "Research"
   href: "/research/"
   subcategories:
+    - subtitle: "Aegis: Attributing Change Impact in Cloud Systems"
+      subhref: "/research/aegis/"
     - subtitle: "Rare Feature Selection in High Dimensions"
       subhref: "/research/rare/"
     - subtitle: "Tree-Aggregation of Compositional Data"
