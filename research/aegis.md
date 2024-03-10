@@ -10,10 +10,16 @@ In this paper, we present Aegis, an end-to-end analytical service for attributin
 
 Since Aegis’ inception in Azure Control Plane, it has caught several bad changes across service components and layers, and promptly paused them to guard the quality of service. Aegis achieves precision and recall around 80% on real-world control plane deployments.
 
-Here is a [media coverage](https://www.msra.cn/zh-cn/news/features/icse-2023) of Aegis in Chinese with screenshot pasted below.
+Here is a [media coverage](https://www.msra.cn/zh-cn/news/features/icse-2023) of Aegis with screenshot pasted below.
 
 {% include image_nocaption.html url="/images/aegis_msra_blog.png" width_perc=80 align="center" %}
 
+Along with the paper, we published a [patent](https://www.freepatentsonline.com/y2024/0069999.html) with USPTO in February 2024:
+
+{% include image_nocaption.html url="/images/aegis_patent.jpg" width_perc=80 align="center" %}
+
+
 **Reference**<br/>
 - [**Yan, X.** et al. (2023). **Aegis: Attribution of Control Plane Change Impact across Layers and Components for Cloud Systems**. *Proceedings of the 45th International Conference on Software Engineering*](https://www.microsoft.com/en-us/research/publication/aegis-attribution-of-control-plane-change-impact-across-layers-and-components-for-cloud-systems/)
+- [**Yan, X.** et al. (2024). **Detecting and Mitigating Cross-Layer Impact of Change Events on A Cloud Computing System**. *United States Patent App. 17/900,640*](https://www.freepatentsonline.com/y2024/0069999.html)
 
