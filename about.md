@@ -7,7 +7,7 @@ permalink: /about/
 <!---{% include image_caption.html url="/images/portrait_2013.jpeg" caption="Me starting PhD in 2013" width_perc=20 align="right" %}--->
 <!---{% include image_caption.html url="/images/portrait_2015.jpg" caption="Photo taken during PhD at Cornell" width_perc=30 align="right" %}--->
 <!---{% include image_caption.html url="/images/portrait_2022.jpg" caption="Photo taken in 2022" width_perc=30 align="left" %}--->
-{% include image_caption.html url="/images/portrait_2023.jpg" caption="Photo taken in 2023 at Dali" width_perc=30 align="left" %}
+{% include image_caption.html url="/images/portrait_2024.jpg" caption="Photo taken at Anacortes, WA" width_perc=40 align="left" %}
 
 I'm Xiaohan Yan (颜啸晗 in Chinese), originally from [Tai'an, Shandong](https://en.wikipedia.org/wiki/Tai%27an). My parents were first-generation college graduates from rural China. Very much knowing the value of higher education, they supported me to pursue my studies in the States.
 
