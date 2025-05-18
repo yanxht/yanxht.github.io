@@ -10,3 +10,4 @@ permalink: /gummibear/
 
 Hi my name is kuromi. I am 8 years old my school is chestnut hill academy. I also have a little sister and she is 5 years old. My favorite book is harry potter. My favorite movie is ne zha. I have a stuffy cat and I named her luna.
 
+test message
