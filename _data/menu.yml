@@ -4,8 +4,8 @@
 - title: "CV"
   href: "/cv/"
 
-#- title: "中文简历"
-#  href: "/cv-chinese/"
+- title: "简历"
+  href: "/cv-chinese/"
 
 - title: "Research"
   href: "/research/"
