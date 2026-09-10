@@ -11,7 +11,7 @@ permalink: /research/
 
 My graduate research centered around *high dimensional statistics* where the number of variables often exceeded observations. At Microsoft, as a Data Scientist, I've delved into diverse research areas. For instance, I pioneered large-scale network modeling, breaking the scalability boundaries of conventional models when interpreting user behavior across our products. 
 
-Since joining Microsoft Azure in 2020, my research has gravitated towards AIOps. I'm passionate about leveraging AI to bolster the reliability and resilience of vast cloud infrastructures and enhance cloud service quality. I invite you to explore my recent project, *Aegis*, a change management system crafted for large-scale cloud ecosystems.
+Since joining Microsoft Azure in 2020, my research has gravitated towards AIOps. I'm passionate about leveraging AI to bolster the reliability and resilience of vast cloud infrastructures and enhance cloud service quality. More recently, my work spans proactive AIOps (detect, diagnose, and mitigate), agentic and multi-agent automation for cloud operations, and capacity intelligence for improving capacity efficiency and fulfillment reliability. I invite you to explore my project, *Aegis*, a change management system crafted for large-scale cloud ecosystems.
 
 ## Featured Research
 - [Aegis: Attributing Change Impact in Cloud Systems](https://yanxht.github.io/research/aegis/)
